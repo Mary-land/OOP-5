@@ -1,0 +1,6 @@
+D:\Дз\OOP\OOP_5\OOP_5\bin\Debug\OOP_5.exe.config
+D:\Дз\OOP\OOP_5\OOP_5\bin\Debug\OOP_5.exe
+D:\Дз\OOP\OOP_5\OOP_5\bin\Debug\OOP_5.pdb
+D:\Дз\OOP\OOP_5\OOP_5\obj\Debug\OOP_5.csprojResolveAssemblyReference.cache
+D:\Дз\OOP\OOP_5\OOP_5\obj\Debug\OOP_5.exe
+D:\Дз\OOP\OOP_5\OOP_5\obj\Debug\OOP_5.pdb
